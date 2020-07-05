@@ -1,0 +1,49 @@
+                     ./#/#*                                                    
+                    .((/#/#,                                                   
+                     *((/#/(        *&&&&&&%                                   
+                      .(%##/%      &&@@@@@@@&                 Ladinos contam com sua perícia, furtividade e as vulnerabilidades de seus inimigos para obter vantagem em
+                         #%%#%%(%#%@@&&%%%&@@&,               qualquer situação. Eles possuem uma habilidade especial para encontrar a solução para praticamente
+             #(##         (#&(%&@@&@&/,/%&%&                  qualquer problema, demonstrando desenvoltura e versatilidade, tornando-se a pedra angular de qualquer
+              &&(         %%#%&@@@&@&%%(//&&&&(               grupo aventureiro de sucesso.
+              ,%@*         #&/(#%@%&&(/(#((#&&&                                
+               #& *     **./(/(((((&&%(%##(&%#&&                               
+              .(#  *    /%%%%&/##*/(#(&%#%&@%(#&&             Ladinos dedicam muito de seus recursos para se tornarem mestres em várias perícias, bem como aperfeiçoar
+              #&    *, * @@#%%#&((%%#&((/#&&/(#&&(#/          Suas habilidades de combate, adquirindo uma ampla e vasta experiência que poucos personagens podem
+              %%,     **@((#%%%(##/(//%%&((#@%(/(/#.#         alcançar. Muitos ladinos focam na furtividade e blefe, emqanto outros refinam suas peícias para ajudá-los
+             .(,       %*(#%#&@#%(#&/%#//#/*/#%/%&&@(&(       em ambientes como masmorras, escalando, encontrando e desarmando armadilhas, e abrindo fechaduras.
+             (%        #,,/%#%%%%(//%(##%(/*/#%#@@@/%&&.      
+             &%     %(#*,*((*%@%#((#(#%%%#&//#%%%&%&&&,                        
+            /#&   (%#(,,,///#%@((%#.**,#%((*#%@&(%(           Em combate, ladinos priorizam astúcia em vez de força bruta. O ladino sempre prefere desferir um ataque
+            .%%(*.  ,,,,*,#%&@@@#(#%%%%%%%&&%#&%(&&@((&/#     preciso no exato lugar em que causará mais dor, do que derrubar um oponente com uma enxurrada de ataques.
+             &%/   (/ &%(#@&@@@%%(#(##%#//#&&%%@&@% .% ,(     Ladinos possuem uma habilidade quase sobranatural de evitar o perigo e alguns poucos aprendem truques de
+            .%%&   , *%%##%@&&&&@&%#%/#*/#((&&(@%#%(   ( (    magia para incrementar suas habilidades.
+             ##%%   *##%%##%&&&&@@%#(##//////((&& %##@&*    .                  
+              %%&   ,%%#%%%%&&&&&@(((#//(#//(#(%  &&%%         
+              ((#%   %#%%&%@&&&&@@%(/#///////((% &&&%&(       Cada cidade, cada distrito tem sua parecela de ladinos. A marioria deles vivem o pior estereótipo de 
+               &,%&  %##%#@@&&&&@&((////////////%  &&%%&%     classe levando a vida como assaltantes, assassinos, ladrões de rua ou vigaristas. Geralmente, estes 
+               (%(@&*/#%%&&@&&@&%(//#///////////((  @&%#%     canalhas são organizados em guildas de ladrões ou familias criminosas. A maior parte dos ladinos opera 
+               *((&%(%%@@@&&@#///%///////(((#(   .&%#&,       independentemente mas as vezes recrutam aprendizes apra ajudá-los em seus golpes e assaltos. Uma pequena 
+                .%/(##%&@@&&@%#%(/((&((//((##%(#(*  ,#%       parcela dos ladinos vivem honestamente como chaveiros, investigadores ou exterminadores, o que pode ser 
+                   ###(%&@@@@&@(//(%#/*%##((#%&%(/(&   &&%%/  um trabalho perigoso.                
+                  (##(/&&&@@@&%#(/*//(#&&&%#&%((/(&%   %%###,                  
+                   (&&@@@&@@@@&%%%(%%&&%%@@&%(/(##&(  @&@,,.  Como aventureiros, os ladinos pendem para ambos os lados da lei. Alguns são criminosos insensíveis que
+                    #%@@&&@@@@&&&&%###(((/(%%&&   &/%&&%(     decidiram procurar sua fortuna em horas de tesouros, enquanto outros levam uma vida de aventura para
+                    %&@@@&&&@@@%%%%%#%#(%@&&&&@&%     %&,(%   escapar da lei. Alguns aprenderam e aperfeiçoaram suas perícias com o propósito explícito de se 
+                    &&&@#@&%@@@%@&&%&%%##%&%#&(%%#         *  infiltrarem em ruínas antigas e críptas escondidas na busca por tesouros.
+                    &&@@#*(/%&@@@%&&&&(%%%&%@@%&&(                             
+                    &&&@@((###%@@@&%&%#%&%%%%&@&&             
+                    &&@@@@@(%.#&@@@&&%&%##%%%&&& *            Você começa com o seguinte equipamento: Um sabre, ou uma espada longa;           
+                    &&@@@@@*%%&@@@&%&&&&%%&&&@  . *                          			      Um arco recurvo;
+                   ,*/&@@@@@@@%#/&&@@@%&&%%#%&@**  /                           		              Duas adagas presas a cintura;
+                   #*/&@@@@@@@@@(%(%&@@&%%%(#&@..   (                          			      Uma espada curta;
+                   &*#&@@@@@@@@@@&&(&//&%##%@        ,                         			      
+                   #@@@&%@@@@@@@@*@@/&/&&/%#&         .                        
+                   @&&@@*@&@@@@@@*@@#&@&%&&&%%%#(%%&(   .                      
+                   @,&&@*@@&@@@#@@,@@@%&&&&%  %. /&&%#                     
+                   & .@@@@%/@@@(@@ @&&%%%%(&        .&%/(%    Pressione 0(zero) para voltar a escolha de personagem.             
+                    , @#@@%(@@@@(( @#&%%%&&&%,           #*(                   
+                       .@@(@@@&%&   /&&%&&%,            /#                   
+                         &*%(@/     %&%&(#%#&*            /,                   
+                            *@      &&%%%%&                                  
+                             @     #@%%%%#&%&                                  
+                             *    &&&%%%%&%      

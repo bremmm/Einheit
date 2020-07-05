@@ -1,0 +1,14 @@
+Grigor, Thoradir e Sariel estão na praça da cidade planejando quais seram seus proximos destinos:
+
+	
+	-Grigor: Para onde vamos?
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+	1 - Thoradir: Acho que deviamos ir ao ferreiro comprar armas e armaduras (ir ao ferreiro).
+
+	2 - Sariel: Acho que deviamos dar uma passada no alquimista em busca de algumas poções (ir ao alquimista).
+
+	3 - Grigor: Acho que deviamos passar no castelo antes, para buscar mais informações a respeito do que aconteceu (ir ao castelo).
+
+	4 - Thoradir: Vamos embora! Não vejo a hora de por minhas mãos na recompensa (ir para estrada).

@@ -1,0 +1,39 @@
+	Após derrubarem a porta, Sariel informa que sabe um local onde poderiam escapar sem serem vistos, então guiados por Sariel
+	se esgueiram pela humida e escura prisão de pedras, até chegarem a um local escuro.
+
+	-Grigor: É aqui Sariel?
+	-Sariel: Ainda não. Precisamos recuperar nossas armas antes de tudo, vocês fiquem aqui, eu irei atrás de nossos pertences.
+	-Thoradir: (...) Tanto faz para mim. Não me conforta a idéia de uma elfa tocar em meu machado. Mas dessa vez vou ignorar.
+	-Sariel: Posso deixar seu machado para trás, como queira.
+ 	-Thoradir: (.....) Não.
+	-Thoradir: (..........) Por favor(...).
+	
+
+	Sariel empura uma pequena pedra, abrindo uma passagem estreita, que levará para a sala onde é guardados espolios de prisioneiros.
+	
+	(...)
+
+	Depois de algum tempo, ela retorna para os dois homens impacientes, completamente suja e com seus pertencens nas costas.
+
+	-Grigor: Pensei que tinham lhe pego!
+	-Sariel: Ninguém nunca conseguiu.
+	
+	Continuam a se esgueirar pela prisão, o qual encontram uma pequena janela, aberta, e é por aí que vão descer.
+	
+	-Sariel: Vamos descer com uma corda que encontrei.
+	-Thoradir: Isso... É meio alto. Você não sabia uma passagem secreta?
+	-Sariel: Não, apenas queria que confiassem em mim.
+	-Grigor: (...).
+	
+
+	Sariel prende a corda e se pendura para fora, descendo rapidamente para baixo, esperando seus outros dois companheiros.
+	
+	Ao chegar ao solo, se afastam rapidamente das redondezas da prisão, indo para uma pequena floresta perto dalí.
+	
+	-Sariel: Ouvi dos guardas que a princesa Zelda foi raptada. Eddarth está dando uma ótima recompensa para quem a trazer devolta.
+	-Grigor: É um ótimo jeito de se reconciliar nossos erros na taverna, e ganhar uma ótima grana.
+	-Thoradir: Por mim, tanto faz. Se aqueles guardas encherem meu saco novamente, vou dar-lhes porrada.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	
+1 - Aceitar procurar a princesa
+2 - Ficar foragido, e ir para a floresta.

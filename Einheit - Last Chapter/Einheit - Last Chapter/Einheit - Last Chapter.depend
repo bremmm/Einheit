@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1544721931 source:c:\einheit - last chapter\einheit - last chapter\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529694547 source:c:\einheit - last chapter\einheit - last chapter\bestiario_automato.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529585570 source:c:\einheit - last chapter\einheit - last chapter\escolha_personagem.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529585834 source:c:\einheit - last chapter\einheit - last chapter\historia1.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529553218 source:c:\einheit - last chapter\einheit - last chapter\fuga_prisao.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529554925 source:c:\einheit - last chapter\einheit - last chapter\dano_sair_prisao.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529554925 source:c:\einheit - last chapter\einheit - last chapter\lockpick_sair_prisao.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529553183 source:c:\einheit - last chapter\einheit - last chapter\adiantamento_rec.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529586143 source:c:\einheit - last chapter\einheit - last chapter\cidade.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529685779 source:c:\einheit - last chapter\einheit - last chapter\bolsa_itens.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1529685779 source:c:\einheit - last chapter\einheit - last chapter\estrada.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+
+1528741458 source:c:\einheit - last chapter\einheit - last chapter\song_of_storms.c
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+
+1528741803 source:c:\einheit - last chapter\einheit - last chapter\song.c
+	<stdio.h>
+	<windows.h>
+	<dos.h>
+
+1529613381 source:c:\einheit - last chapter\einheit - last chapter\batalha.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+
+1529586668 source:c:\einheit - last chapter\einheit - last chapter\floresta.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<dos.h>
+	<locale.h>
+

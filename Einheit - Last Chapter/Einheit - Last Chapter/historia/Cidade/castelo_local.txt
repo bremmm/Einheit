@@ -1,0 +1,21 @@
+Thoradir e Sariel estão em frente ao castelo real esperando Grigor falar com o rei e extrair algumas informações adicionais, pois
+é o unico do grupo que consegue se portar de uma maneira aceitavel perante o Rei:
+
+	...
+
+
+Grigor após conversar com o Rei retorna a seus amigos:
+
+
+	-Grigor: Vamos?
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	1 - Sariel: O que você descobriu, Grigor?
+
+	2 - Voltar para a cidade.
+
+

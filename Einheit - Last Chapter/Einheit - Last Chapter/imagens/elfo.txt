@@ -1,0 +1,48 @@
+                                           .. ..                                                 
+         /###/                          .,           *.                                            
+         /##(*                        .,     ..  .   ,.,                    Os elfo sao uma raca muito antiga. Em comum, todos tem as orelhas
+        .(###*                        .   ..(/*,*/(.   ,,                     pontiagudas, olhos verdes ou azuis, tracos delicados, afinidade com a
+         (*##*                       *   ../**.    ,....,.                    natureza, talento para a magia e uma vida muito, muito longa, beirando
+        .#//#/                      .. *,./         / */.,     .,,            a imortalidade.
+        ,#(##*              *,.     * ,,* ,         , ,*,/,,,,..                  
+        ,(###*                .,,*/*/***/(/*,.   .**/,,*/., ,                                      
+        *####/                   .,* **/*(/*/ .   ,/**,*. ,.                Exceto por esses detalhes, os elfos sao fisicamente muito parecidos com
+        *#(##/                      ***/*(    ..     ,,//.*                   os humanos. Tem a mesma altura e peso - e, embora sejam normalmente
+        .((#(/.                     ,*/(//          .,/(#**                   mais delgados, alguns se mostram tao musculosos e massivos quanto
+        /((((./                     ./*/((          .,/(/,/.                  qualquer humano. Geralmente sao muito mais ageis que humanos, tendo
+        /###(..                      /,/*#(.        /**(*,*.                  como principal armas de defesa: arcos e espadas de duas maos, tambem
+        *##((* ,                     /./,((.,.    ,.*(/*,*,,                  pode se encontrar elfos magos que utilizam cajados e adagas.
+        ,###(.  .                  .,/,(//*.   ,.   /*****,/                  
+        ,###(.  .               ,/,,*(*,,,..       ./ ,,*//(*,.                                    
+        *##(*.  ,        ***,,,**,..*,*,,,*        * ,,,,/.,(*,,(,,.        Em geral seus cabelos sao loiros, ruivos, ou meio avermelhados, dourado
+        *###,.  ,,.       *(,,.,,..   ,.,..,    ..,,... ,/*,,,*,,,*/**.       ou ate mesmo prateado. Olhos e cabelos negros sao mais raros. Os olhos
+        (##(,,*,* ,        *..*(/***,,.  ,        , .*,,*(...  .,///**/(/*    tambem podem ter diferentes formas - alguns elfos tem pupilas verticais
+        (##(,.     ,      /*,, ,**       ,,,,,,,,,,*.   ,/,,,,,,*///* ./*     como gatos e cobras; outros tem iris enormes, que ocupam quase todo o
+       .(##(,      ..   **, .,....,.              ,     *.  ,.,*/ *(* .**.    olho como os animais em geral.
+       ,(##/,       ,  .,*.     , *,,.    ,             /.,,,,., .//,, *.*.                        
+       //##(*        *,,        ,  . .,,,.,      .  .,,,(*,.  .  ,//**,..,,                        
+       (/##(.,      ,.*,        ,  ,     .*,,,*,,.,*,. *,.,  .  */*/ .*,,.*,Tambem eh possivel encontrar alfos com cauda; longa, fina e com a ponta
+       ./##( .*,,,.,(. ,.,      *  ,       .   ,      .* ,   .//.*.*   ** ,,  afiada, como a de um demonio. E outros, como Niele, tem patas em vez de 
+        ((#( .*,,.  *   /*.     /. ..      ,  .       *,.    *   *.*    ,**,  pes. Essas ocorrencias, contudo, sao raras.
+        (##/  *          ** .. .(* ..      .  .      .*.,    ,  .*.*    ..                         
+       .###/   .          *   .((/ ..      . ,       *.,     ,  ,,.*     ,                         
+       *(##/   ,.            *(,*( ..       *.      .,,     .,  ,,.*.    ,. Geralmente elfos vivem de 800 a 1500 anos. Essa vida longa exerce forte
+       ((##/    ,          .((./**  ,       ,       ,..     .,  ,.,.,    ..   influencia sobre sua personalidade e ajuda a explicar seu comportamento.                         ((##/    ..        //.,/*//  .,      .      ..,      *,    ,.,     ,   Elfos apreciam os prazeres da vida mais lentamente, e por sao 
+      ,(###/     ,       *. ,./,//   ,      .     ...      ./,    .*.  ,*.,.  exigentes quanto a comida, roupa, beleza e artes. Apenas os maiores
+      /(###/       ,,,,.   ..***(*   ,      ,        .     ,*,    .*((,   ..  amigos e inimigos sao lembrados por eles(afinal eh impossivel lembrar
+      /(###/               ,,,,/(/. ..     .,        .     **, ./#(,       .  de todo mundo que voce conhece em 1000 anos...). Todas essas coisas
+      /#(/#/              ..*../(* .*(,*******,,,*,,.*,,,,*/*./(,  ....    ,  costuam fazer com que os elfos sejam vistos pelos humanos como frivolos
+      /#(*#/              ,*.../#.  .//*  .*.  ,(*,..,*...***,.,,         ,.  distantes e ate arrogantes.
+      /(*(#*              ,,  ./(/,  //*,   ,   **,/,*   *,.,*           .,   
+      /#*##,             .*.  .*     ..,,,,..,   *.*(/**/, .*,.          /.                        
+      *#(#(,             .,   *.     ,       ,,,.*,,(/,     ,,   .*/(#*. *  Elfos sao geralmente extremamente mais inteligentes que humanos, por sua
+      /###(,              ,   *      ,       ,  .,.,/*,      //*,,,,,. /(,    conta de sua longevidade, investem muito em estudos, magias, alquimia
+     .(###/,              ,  ..      ,       ,  ...,*,,.     , *.    ,.*,.    e dentre outras areas de conhecimento, podendo-se encontrar elfos
+     /####(.              ,  /      .,       ,  , .,,,.,     ..,.   .,,.,     especialistas em quase tudo que existe.
+    ,(((##(.              . .*      ..       ,  , .,.*.,      ,,.  .**/./                          
+     **###(                 /.      ..      ..  , .,.,.,.     .,. ./,*/,*     
+      (###(                 /       ..      ..  , .,.*...      *,  /.*,.*     Pressione 1(Um) para voltar ao bestiario:                      
+      /###/                .*       ,       ,  .. .. ,. ,      ,,..,*,.*,                          
+     .(###(                ,,       ,       ,  .. .,.*, ,      ,,*/*,. ,,                          
+     (####*                ,.       ,      .,  ,  .,.,, ,      ., ,.    ,                          
+     *####,                ,.       ,      ,,  ,  .,.*, ,      ,  .,    .                                

@@ -1,0 +1,10 @@
+Ao amanhecer Grigor, Thoradir e Sariel se preparam novamente pra mais um dia de caminhada. Porem dessa vez não pela estrada,
+pois a estrada faz uma curva evitando a floresta e tem destino a outra grande cidade conhecida como Tiuneibor, e sim por uma
+trilha que atravessa a floresta conhecida por Sariel, que por sua vez explicou os riscos e os perigos desse caminho.
+
+	-Sariel: Essa não é uma  floresta comum. Ela é amaldiçoada por aqueles que morreram tentando sair dela e nunca conseguiram 
+	-Thoradir: Nossa que medo... vamos logo.
+	
+---------------------------------------------------------------------------------------------------------------------------------------
+
+	1 - Entrar na floresta.

@@ -1,0 +1,15 @@
+Grigor, Thoradir e Sariel estão na loja de armas e armaduras de Thorir se preparando:
+
+	-Thorir: Olá, primo! Como posso ajudar?
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	1 - Machado de batalha (+10 dano, -20 Yverns).
+
+	2 - Machado simples (+5 dano, -9 Yverns).
+
+	3 - Espada magica (+35 dano, +5% chance de acerto, -110 Yverns).
+
+	4 - Voltar para cidade.

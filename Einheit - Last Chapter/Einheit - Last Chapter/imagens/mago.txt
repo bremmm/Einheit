@@ -1,0 +1,49 @@
+                  /%                                                           
+                  %%&                                                          
+                  #&                                                           
+               ##((%#                                                       Os magos sao usuarios de magia soberanos, unidos e definidos por uma classe que se   
+          ,#*      %&    /                                                   expressa na conjuracao de magias. Baseando-se na trama sutil da magia que permeia o
+          %(,#  //##(&,  #    ,%%%%#                                         cosmos, os magos lancam magias de fogo explosivo, arcos de relampagos, engano sutis e
+         #%(( ##(,((%#*% %&&%########%                                       controle de mentes. Sua magia invoca monstros de outros planos de existencia,
+           &%%& *%##%##%%/  *%#######(###%                  ..               vislumbram o futuro ou transformam inimigos mortos em zumbis. Suas magias mais
+             *%#%%&/(%&     %#####/(%%#%&%&                  .,,.            poderosas podem mudar uma substancia em outra, evocar meteoros que caem do ceu ou 
+                   #&&&    %%%####(#&&%%#@@                  .,(             abrir portais para outros mundos.
+                   #%%@&  %%%%%%#%*/*#,#%&&                 ,*.,/.             
+                    %#%& #%%####/###%##%%&&%               ,/,,/,*             
+                    /@%#####(%##/**(#%&&&%%,             /**,..,            Selvagem e enigmatica, em varias formas e funcoes, o poder da magia leva estudiosos a 
+                    ,%#%#/%&&%%%((,*#&/#&%%%              ,/,..              buscar a maestria no conhecimento de tais misterios. Alguns aspiram ser como deuses,
+                      ##%#%%#####((**/(##&&&%(                    ..,        moldando a realidade a sua vontade. Embora o lancamento de uma magia basica requer
+                    .(##**%###(((((##,,(%%%/              ,   (*/#*          meramente a pronuncia de algumas palavras estranhas, gestos fugazes e as vezes um 
+                   /##,****%##(((#((##,(#%#%%%%(            , ..**%          punhado ou um grupo de materias exoticos. Estes materias mal denotam a experiencia 
+                  ###(*/*/*#%%/,//###%&/#&%%%%%%%*        *,,,,,%%           alcancada apos anos de aprendizagem e incontaveis horas de estudo.
+                ,####,,*/%&%#(*/###%#%#%%##&#%%      ,,//#%.                
+               .##(%**,/&(%##%%%%/(//#(&%#(%&&&%%#   ***/%                   
+               ##%(/*/(&@#%&&&&/,**(,##/(%%%&&&&%##**//#%%                  Magos vivem e morrem por suas magias. Tudo o mais eh secundario. Eles aprendem novas 
+              #(#(*/*/%&&@/&@&&%#*((%%%#%%&&(%&&%%(#/(%#%&(                  magias realizando experimentos e crescendo em experiencia. Os magos tambem podem   
+             &&%#(#(/#&@&@%(@&&%%%#(%%%&&&&&&&@&&%#%%%%&&%&&                 aprender magias de outrios magos, de tomos antigos ou inscritos, bem como de criaturas
+              .##&%%&&&@&@@/%@&&&&&&&&&@&&&&&&@&&%#%&&&&&&&&%%               antigas(como as fadas) que sao repletas de magia.
+               #%%%&@@&&@#/&&@&&&&&&%%@%&@&&@&&&%%%@&&@@&&&&%%               
+               ##%%&&@@&&&%@%&@&@@&&&&&&@&&@@@@&&&&%%%&@@@@&&&&%%(             
+              ####&%#%@&&@@#@&&&&@&&&&&&&&&@@@@@&&&&%%%%&&@&&&&&&            
+              %##(&#%&&&%#@#&&&&&@&&&@&&&%@%@@@@@&&&&&&&&%%%%%&&&&          Como mago voce comeca com os seguintes equipamentos: Um cajado e uma adaga para combate;
+             %%#%#@@%(#&&&@#%&&&&&&&&&@@&@&@@@@@@@@&&&&&&&%%%%%%%%/          						         Uma bolsa de componentes arcanos;
+            .%%#%##&@%(%&&&&%@(#&&%&&&&&&@@&@@@@@@@@@@@@&&&&&&&&&%%%#%        						         Livros e tomos poderosos;
+            %%%#%#(&&&%((%&&%@(/&%%&&&&&&&@&&@@@@@@@@@@&&&&&        #%%,       
+            %%%%%##@@&((#&&@#(&&%%&&&&&&@@&@@@@@@@@@@@&&&&&&                
+           #%%%%%%#&&&&((/(&&@@##&%&&&&&&&&@&@&@@@@@@@@@@&&%%%%%%%#         Pressione 0(zero) para voltar a escolha de personagem.   
+           %%%%%%%#&&&%#((/#&&@#(&%&&&&&&&&@@@&&&@@@@@@@@@&&%%%%%&%%&.         
+           %%%%%%%%%&&%##(/#&&&&(#%%&&&&&&&&@@&@@&@@@@&&@@&&&%%%%%&&%&&%       
+           %%%%%%%(&&###(#&&&@%(&%%&%&&&&&@@@&@&&@@@@&&&&&&&&&&&&&&&&&%%     
+           %%%%%%%(&&####%&&&@%(%#%%%%&&&&&&@&&&&&@@@@@&&&&&&&&&&&&&&&&&%.   
+          *%%%%%%%#&&####%&&&&(&%%%%&&&&&@&@&&&&&@@@@@&&&&&&&&&&&&&&&&%%%  
+          #%%%%%%%#&&####%%&&&@%##%%%%%&&&&@@@&&&%&@@@@@@@&&&&&&&         &% 
+          %%%%%%%%#&&&%%####%&&&@%%(&%%(#%&&&&@&&&&%%&@@@@@@@&&&&&             
+          %%%%%%%%%%&&%%#%%%%&&&@&%%%%%((#&&&&@@&&&&%%&@@@@@@@&&&&&            
+          %%%%%%%%%#&&&%%%%%%&&&@@%%#&%(/(#&&&&@@&&&%%&&@@@@@&&&&&&&           
+          %%%%%%%%%#&&&&%&%%&&&&@@%%#%%(((#%&&&@@@%%%%%&&@@@@&&&&&&&&          
+          #%#%%%#%%%&&&&&&&&&&&&@@@%%%&(/(##%%%%@@@%%%%&&&@@@&&&&&&&&&.        
+          /%#%##%%#%#&&&&&%@&&&&@@@%(#%(((((##%%&@@&%%%&&&@@@@@@&&&&&&&        
+          ,%%%#%%##%##&&&&%@&&&&@@@((##&(((##%#%%@@@&%%%&&&@@@@@@@@@@@@&       
+          (%%##((##%%#&&&&&@&&&&@@(/%%((#(####%%@@@%%%%&&&@@@@@@@@@@@@*      
+          (&@@@@@@@@@@@&&&&@&&&@@@((%%&(###%%%#%@@@@#%%&&&@@@@@&&&&&&.       
+          #&&@@@@@@@@@@@&&&@&&&@@@@&((#%%(#%#%%#%%%@@@@%%%&&&@@@@&&          

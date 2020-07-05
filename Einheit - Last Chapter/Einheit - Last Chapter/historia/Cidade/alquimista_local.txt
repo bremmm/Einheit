@@ -1,0 +1,19 @@
+Grigor, Thoradir e Sariel estão na loja de poções de Ping se preparando para a jornada que irão enfrentar:
+
+	-Ping: Como posso ajudar?
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+	1 - Grigor: Preciso de uma poção de vida simples (+1 poção de vida, ela recupera 25 de vida, -20 Yverns).
+
+	2 - Grigor: Preciso de uma poção de vida grande (+1 poção de vida grande, ela recupera 50 vida, -50 Yverns).
+
+	3 - Sariel: Preciso de uma poção de foco (+1 poção de foco, +60% chance de acerto, -250 Yverns).
+
+	4 - Thoradir: Preciso de uma poção de força (+1 poção de força, +20 dano, -35 Yverns).
+
+	5 - Voltar para a cidade.
+

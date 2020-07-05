@@ -1,0 +1,48 @@
+                                              ,(#####%*                                            
+                                         .#############%%&                                 
+                                   /#%%%%%%%%########%%%%%%%                       Individualmente anões são determinados e leais, fiel à sua palavra e decisivo na 
+                                (%%%%%%%%%%%%%##%%%(*..*%%#%.                      ação, às vezes ao ponto de teimosia. Muitos anões têm um forte senso de justiça, e 
+                              *(/#%&%&%%%%%%%%%%%%/**..,*//##                      eles são lentos para esquecer injustiças que sofreram. A injustiça feita a um anão é 
+                               .(#%#####(#&&%%%&%(*##%&/(@&&&%                     um mal feito a todo o clã do anão, então o que começa como caça de vingança a um 
+                              //#####%####(%&%%%%##(/#*(#&(&&%#                    anão pode se tornar  uma rixa ao clã inteiro.                
+                            %#//###((######%(%%%%&%%%%&%/%&&&%#                    Corajoso e resistente, anões são conhecidos como guerreiros hábeis, mineiros e    
+                         ///##/((#%%%*((###%/%%%%#%&&%&&&&%&&&(%#(/                trabalhadores de pedra e metal. Apesar de estar bem com menos de 1,5 metros de 
+                       ./###%*#((//*####((###%%%#%%#%%&&%&&&/##(##                 altura, anões são tão largo e compacto que pode pesar tanto quanto  um humano quase 
+                      *##/*%#(/,###//*#%((%##(%%###%%###%%%%%%%%%(%#(              meio metros mais alto. Sua coragem e resistência também são páreo para qualquer um 
+                     *%#**/###*%#*(##%#%(/&&&&%####%%%##%&%%%#%##(#(#              dos povos de maior porte     
+                     ///*%####((%%///*###&@#%###%&%%##%&%%%%&%#((&&%                             
+                      *///(###((/%#%(#(&&(((%%%%%&&&%%#&&&&%&&&&&&&* /((*.         A pele dos anoes varia de marrom profundo para uma tonalidade mais pálida tingida de 
+                      ##%##%&&&&&&%&&%#(&&////#(/(#%%/%%&%&&&%%&&&&((/##(*//.      vermelho, mas os tons mais comuns são marrom claro ou bronzeado.
+                 #(%((&&%#(#%%%&&&&%%@@@((((#%%&(&/((//#%####%&#(%#####/**#/       Seus cabelos, são longos, mas em estilos simples, é geralmente preto, cinza ou 
+                .(#%(%#*&&&&&&&&&&&%#%#(%(/##%/(%%#%(/#(%%&%%%#%#%%%#####/(/*#(    marrom,embora anões mais  pálidos muitas vezes tem cabelo ruivo. Anões machos 
+      ##.       .((##%%%/#&&%&&&@&&&&&%%###(/#%###((((/###(#&&&%%%#(*#%#####*/###  valorizam suas barbas longas e preparadas cuidadosamente.                 
+    (&/%&        %%&%#%%#%%%&&&&@&%&%%%#(((/%/(%%%#####(#%%%&&%%%%###(#*(#////##/                  
+    #&%%(%/     #%#%%%&(#%%&&@    %%&&&%%%%#(%#####((####%(%&&%%%#(((((////(/((    Anões pode viver mais de 400 anos. São sólidos e duradouros como as montanhas que 
+   (%&  %%%&    /%%%%%%%&%&&&     %&&&&%%%(###((#((%(//#%(%&%%#%%##(&&&%(#(##(###( amam, resistindo à passagem dos séculos com a resistência estóica e pouca mudança.
+    *    /%(&.  %#%%%%#%&&&      ,&&@&&%%%&&(&(#(#/(((/%((##%%%%%##/&&&&%%&%#%%#.  Eles respeitam as tradições de seus clãs, traçando sua ascendência de volta para a 
+           %#%#,&%%*%%%&&&(    *#&&@@&&&&&&(#%%%((#(##((((#%@&%%%%%%%###&&%(##%%(# fundação de suas fortalezas mais antigas na juventude do mundo, e não abandonam 
+            (%(#%%%%%%&&&&     /&&@&&&&&&#%##%((#%%#%#&%&@%%%%#(   %(%%%#%#(       essas tradições levemente. Parte dessas tradições é a devoção aos deuses dos anões, 
+              %(%%(%%%%&&&    /#####%%////%&&%%%##%#%%%#%&@&@@@@###%#%   %%%%%%%#  que defendem os ideais do  trabalho diligente, habilidade na batalha, e devoção à 
+               ##%&&%%%&&&    %&&&%%%%%%/(&@&&&&&&&&&&&&&&&%%%&%(##   ##%(%%%%     forja               
+               %&&%%&&&&@&  *(&%%%%%%%%%((@#((&&&&&&&&&&&&&&&%&&#   ##                 Tracos de um anao:      
+                %%%%%%&%&@  /###%%%%%((&&(((&%&((#&&((&&%#(&&(#&&&/  #(            Anões medem entre 1,20 a 1,50 metros de altura e média de cerca de 70 quilos;
+                %&%%%%%%&%*(%##&%%%%%((#&&&((#&&&((#&%((%&&((&&%#%%                Acostumado à vida subterrânea, você tem uma visão superior em condições de escuridão;
+                *%%%%%%%&%%##%%%##%%@@&%&(((&&%((#&&((%&%%&&&&%####                Você tem vantagem nos testes de resistência contra veneno;
+                 #%%%%&&&&%##%&&%%&&&&&&&&%&&%%%%%&&%&&&%&&%#/                     Você tem proficiência com o machado de batalha, machadinha, martelo de arremesso, e 
+                  %%&&%&%(#%@@&&&&&&&%%(((&&(/(((#(&%%(#&&&&&&%*                   martelo de guerra;
+                     * .&&%&%&&&&&&&@@&&&&&&&&&&&&&&%&&&&&&&&&&&&&%&                  
+                        /%###*#&&&&@@&&&&&(/((&&((#(%#((#%&%###&%&&&&%                             
+             *          %&%###(#%&&&&&&%&&&&&&&&&%%&%&@&&&&%&&&&&&&%.                 Como anão voce comeca com o seguinte equipamento: Um machado de batalha,
+             ,*.       *%&%(##/#%&&&&&@&&&&&%%%&&&%%&&&&%&&&&%%%%%                               					e uma machadinha;
+              ***      %%%%%&%(##((#&&&&@&%&&%%%%&&&%&&&%&&&&&%&%%%#                               					Uma armadura de metal e ferro;
+               //#     *&&@@@@%##((/#%&&@&%%&%%%%%&%%%&&&&%&&%&&%%                               					Ranço por elfos;
+               .*/,#  /&&&%%&%#(##(#((%&@&%%&%%%%%&%%%&%&&%&&%%%%%.                              
+                 *//((((&&&((###((#(#&&@#.%%&&%%%%&&%%*%&&%&%&&&%%%(                               
+                  .//(((((##(##/##%&(&&&/       (%%%/  ,@@&@&&&&&/((                               
+                   .//((((((((##(%#   .&*              *@&@&&&&##(.                              
+                    **///(((((#%&&                     %%%&&&&#(/#                               
+                    /&**//(%(%%&&%                     &%%%&&###(((                 Pressione 0(zero) para voltar a escolha de personagem.             
+                    /&%(*****%&&&&                     %%%&&&&(###(//                              
+                    .#&&&***%&&&%                       &&&&&&&((/#%                             
+                     %%%###*&&&&.                        &%&&&&&%%(((/**                           
+               

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Einheit - Last Chapter" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Einheit - Last Chapter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Einheit - Last Chapter" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="adiantamento_rec.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="batalha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bestiario_automato.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bolsa_itens.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="cidade.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dano_sair_prisao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="escolha_personagem.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="estrada.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="floresta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fuga_prisao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="historia1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lockpick_sair_prisao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

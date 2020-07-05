@@ -1,0 +1,48 @@
+              *@@@@@@@&@&                                                
+                    *@#&@@@* *                                                 
+                    &(&@@&                                                     
+                   /%&@@% %                                              Globins sao humanoides pequenos, egoistas e de coracao negro que vivem em cavernas,
+                   @&@@#  %                                                minas abandonadas, masmorras despojadas e outros ambientes lugubres. Mas podem ser
+                  %&@@  ,                                                  encontrados fazendo rondas em caminhos, saqueando, fechando o caminho e obrigando  
+                 *@@@%*                           ,                        a quem passar pagar-lhes uma taxa para continuar a viagem. Sao individualmente
+                /%&@.                    ((/*@&@@@@&#%&%&/                 fracos, mas andam em grandes e as vezes devastadoras quantidades. Eles anseiam
+               ,&%@.        (    ,&&&&%(/,@@@@@@&/,,/*,,**/,*/             por poder e regularmente abusam de qualquer autoridade que adquiram.
+              ,&&@                   %%&@@&/,//@%/**/%@@&&((,*(@.           
+             /&@@                    /(##%@@(/*@&//**.%&/*#//(*%/              
+            /&@@.           ..  ,%%(*   &@&&@@@@%((/(/#,&@(%&            Os globins pertecem a uma familia de criaturas chamadas globinoides. Seus primos maiores  
+        ***/&@@/          (    .      /@@@@@@@@@@%%&((/#*/**#@&&           hobgoblins e bugbear, gostam de intimidar os globins ate a submissao. Os globins sao   
+       *%*((%%/(*,                (@@@@@@@@&&&@@@&%%%###(@#(%&@*           preguicosos e indisciplinados, fazendo deles pessimos servos, trabalhadores ou guardas. 
+       %%%#&@@@&%,            #*((***/#(**/(((#@@@@&%#%%#&@#%%##               
+      .&%(%@@@@@&&           //*,,*,****(/##/(((&@@@@@@@@@&%&&&,               
+      ###&@@@@@@@&,        *%(***,,**(,*(*/((/(%%&@@@@@@@@@@@@(          Motivados por uma ganancia e malicia, os goblins nao conseguem deixar de comemorar poucas 
+       @@@@@@@@@@&       .%(/(/////(,.,***/&(%%&%@@@@@@@@@@@@@%            vezes que eles estao no controle. Eles dancam e aprontam elegremente quando a vitoria  
+      %@@@&@@@@@@@@%(  .&&%##(#%(,**,,***/(((#%#@@@&@@@@@@@@@@@(           é deles. Depois de terminar seus festejos, os globins deliciam-se com o tormento de 
+     %&@@@@@@@@@@@@@%%&&/(@@@%(((%#/******////#*/*##@&&@@@@@@@&%&%#%&      outras criaturas e abracam todo tipo de maldade.
+     @&@  @@@@@@@@@@@@@&%/@@@@%#%@&(/***//////#*/#&&@&%@@@@@@&%@&%@@@@@(.      
+     @@(   #&@@@@@@@@@@&%#(@#@@@@@&&&@%(////(##((##@&@@@@@@@@&@%%(#&@@@@@/%    
+     @(*.    &&&@@@@@@@@@&@&@&@@. @&%&&&%((#&%((#(***/#%,*,/*//##(/#%%@@@%(/   
+     .(#        @&@@@@@@@%#.    %&&%%/(##&%(/#/*/***/@&&/*..(#(*(&@@@(*@@#   
+       .         ,.@@@@@&*         @&@#%#(#@@@@%#/(((#&@@@@@@@@@@@@@%@@&&@@@   
+        ..       , , .#,          %&&@&&&&@&&&%&&%#%%%@@@@@@@@@@@@@@@@@@@@(#%##
+                 ,/             ,,%@@&(##&@@@@@@@&@@@@@@@@@@#%@@@&/#@@@@@#@    
+                             &,  %@@#/@@@&@@@@@@@@@@@@@, ., /(  %&.@@,  .%/  
+                            @  /@&&&**@&(#(#@@@@@@@@@@@&         .  .*#        
+                            &%@@&@&(/@&@&%@@@@@@@@@@@@.                  Os globins sao comandados pelos mais fortes e espertos dentre eles. Um chefe globin pode  
+                       .*  *, *@%%%#%@@@#((%@@@@@@@@@@@@@(                 comandar um unico covil, enquanto que um rei ou rainha globin(que nao eh nada alem de  
+                         %.   @@@@@@@&/(/&@@///((%@@&@@@@@@/               um chefe globin glorificado) governa centenas de globins, espalhados por diversos covis
+                              &@@@@@&&@@&((///*/(((@@@@@@@@%               para garantir a sobrevivencia da tribi. Os chefes globins sao depostos facilmente, e 
+                             ,@(#@@@@@@@&%#(((/*/*(#&@@@@@@#               muitas tribos globin sao tomadas por hobglobins senhores da guerra ou bugbears.
+                              % /@@@@@@&%%%##(/,*/#@@@@@@@&.               
+                                 @@&   *&&&%((%###&&@@@@@@@@@(                 
+                                 (@,    &@@%%%%&&@&@&@@@@@@&@%             Pressione 1(Um) para voltar ao bestiario:     
+                                  #/   (@@@%&&%&%&@@@&@@@@@@&                  
+                                    .(%(&*#@@&@%%&&@@@@@@@@%                   
+                                    *&@@@%@%#&@@@@@@@@@@@&..                   
+                                   .@@@@@@&@@@@@@@@@@@@&                       
+                                  #@@@@@@@@@@@@@@@@@@@@                        
+                                 @@@@@@@@@@@@@@@@@@@@@@(                       
+                                &@&&@@@@@@@@@@@@@@@@@@@@%                      
+                              ,@@#@#@*%#%&@@@@@@@@@&@@@@&/                     
+                           /*&&@@@%@%@@@/#%&@@@@@@@@,,                     
+                             ,(#@@@@@@@%%(#//((##   . /                        
+        

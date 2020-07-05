@@ -1,0 +1,56 @@
+	A tensão entre todos estava enorme. Quando Thoradir estava para acertar seu machado, Grigor bate seu cajado branco ao chão,
+	fazendo com que todos ao redor dele sejam jogados para trás, além disso ele prendeu ao chão o machado utilizado por Thoradir.
+
+	-Thoradir: O QUE DIABOS VOCÊ ESTA FAZENDO ?
+	-Grigor: Impedindo que você faça uma idiotice, e alerte os gardas.
+	-Thoradir: Você consegue ser mais irritante que essa elfa.
+	-Grigor: Calado! Sariel, está tudo bem? Me desculpe por isso.
+	-Sariel: Sem problemas.
+	-Thoradir: Vão se foderem!
+
+	-Bebado: hugh shds o que?
+	-Grigor: Saia daqui homem!
+	-Grigor: AGORA!
+
+	Grigor empurra o bebado para fora da taverna usando magia, todos na taverna ficam assustados, olhando admirados para o mago.
+	O qual conseguiu alto respeito dentre todos que estavam presentes na taverna.
+
+	Um mensageiro real entra na taverna, acompanhado por dois grandes cavaleiros, com enormes machados pesados de batalha.
+	O qual se aproxima de Grigor.
+
+	-Mensageiro Real: Você teve um grande feito aqui homem. Trago uma trabalho real para você.
+	-Grigor: Continue, sir.
+	-Mensageiro Real: A princesa real, Zelda, única filha do rei Eddarth foi sequestrada durante a noite anterior. Nossa majestade
+	acredita que isso foi obra do necromante Kassadin, Sendo assim, tudo indica que a princesa esta mantida na torre de
+	observação localizada nas montanhas ao norte de Kalashnikov creio que vocês são os mais aptos a concluirem essa missão.
+	Principalmente depois do que foi mostrado nesta taverna.
+	-Grigor: Entendo. Mas quanto a gente ganha indo atrás dela?
+	-Thoradir: É! O Que vou receber com isso?
+	-Mensageiro Real: Ninguém falou com você, anão.
+	
+	Thoradir olha enfurecido para o mensageiro e os dois enormes cavaleiros consigo.
+	
+	-Mensageiro Real: Uma ótima recompensa, é claro.
+	-Grigor: Você não respondeu minha pergunta.
+	-Sariel: Por que eu deveria ir atrás da sua princesa?
+	-Mensageiro Real: Cada um de vocês ganhará 800 Yverns, para usarem como quiserem.
+	
+	Quando o mensageiro diz o valor da reconpensa o olhar enfurecido de Thoradir desaparece e ele e a Sariel gritam sem pensar:
+	
+	-Thoradir e Sariel: Eu topo!
+	-Grigor: Muita calma nessa hora companheiros! Eu conheço o Kassadin e sei que nao será uma tarefa fácil derrota-lo.
+	-Sariel: De onde diabos vc conheçe esse necromante?
+	-Grigor: É uma longa historia. O fato é que se quisermos aceitar essa missão teremos que receber uma parte da recompensa
+	adiantada para que possamos nos preparar para essa jornada.
+	-Sariel: É, você tem razão.
+	-Thoradir: Infelizmente tenho que concordar com a elfa, porém, não faço questão de adiantamentos.
+	-Grigor: Sendo assim...
+	
+	Grigor se vira para o mensageiroreal e:
+	
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+	1-Tenta negociar algum tipo de adiantamento da  recompensa
+	2-Aceita a missão de acordo com os termos descritos pelo mensageiro
+	
+	
+	
